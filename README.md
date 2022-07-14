@@ -1,11 +1,7 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/54186792/144924605-aa5533cb-7640-469f-8aac-cbb3106b8b2f.png" width="100%" height="300px"> 
-</div>
-
 <h2> About Me </h2>
 
-Hi! My name is Olha Suprun. Thank You for taking the time to view my GitHub Profile. 
-I’m currently learning Node.js and Python and I'm interested in web development. 
+Thank You for taking the time to view my GitHub Profile. 
+I’m currently learning Node.js, Python and PostgreSQL and I'm interested in web development. 
 
 <h2> Skills </h2>
 <a href= https://github.com/SoVa-web?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
