@@ -23,16 +23,6 @@ I’m currently learning Node.js, Python and PostgreSQL and I'm interested in we
 <a href = 'https://www.github.com/SoVa-web'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> My GitHub Stats </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SoVa-web&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoVa-web&theme=onedark" />
-</a>
-
-
-
+<br>
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
